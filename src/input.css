@@ -14,10 +14,13 @@
     display: none;
 }
 .menuicon.show .bar:nth-child(3){
-    transform: translateY(-6px) rotate(-45deg);
+    transform: translateY(-3px) rotate(-45deg);
 }
 .border-grd {
     border: 4px ;
     border-color: #9104E5;
     border-style: solid;
+}
+.color-grad{
+    -webkit-text-fill-color: transparent;
 }
